@@ -1,0 +1,17 @@
+医药inurl:php id
+保险inurl:php id
+银行inurl:php id
+金融inurl:php id
+酒店inurl:php id
+运营商inurl:php id
+航天航空inurl:php id
+社交inurl:php id
+电商inurl:php id
+旅游inurl:php id
+政府inurl:php id
+媒体inurl:php id
+医药inurl:php id
+保险inurl:php id
+高校inurl:php id
+海外inurl:php id
+互联网inurl:php id
