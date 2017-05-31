@@ -19,10 +19,10 @@
 ```
 配置说明:
 ```
-base_dir = os.path.dirname(__file__)＃获取当前路径
+base_dir = os.path.dirname(__file__)	＃获取当前路径
 google_adds = 'google-add.txt'		＃为goolge的子域名，提供搜索，减少被google反爬虫限制次数
-keywords = 'keywords.txt'			＃为google搜索关键词，例如 "公司inurl:php id"
-keywords_remain = 'keywords_remain.txt'#core.py每运行一条关键词，就删掉重新写入该文件，猜测是用来断点保存用
+keywords = 'keywords.txt'		＃为google搜索关键词，例如 "公司inurl:php id"
+keywords_remain = 'keywords_remain.txt'	#core.py每运行一条关键词，就删掉重新写入该文件，猜测是用来断点保存用
 useragents_text = 'useragent.txt'	＃随机变换useragent
 result_dir = os.path.join(base_dir, 'keyword-result-drive')＃结果输出目录
 ```
